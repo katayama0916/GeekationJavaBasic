@@ -3,9 +3,10 @@ package basicSyntax;
 public class IfSwitch {
 
 	public static void main(String[] args) {
-		int num =10;
 		
-		if (num % 2==0){
+	　　int num =10;
+		
+	　　if (num % 2==0){
 	     System.out.println("2の倍数です。");
 	   }else if (num % 3==0) {
 		 System.out.println("3の倍数です。");
@@ -23,7 +24,7 @@ public class IfSwitch {
 	    break;
 	    case "東京":
 	    System.out.println("東京都");
-	   	break;
+	    break;
 	    case "京都":
 	    System.out.println("京都府");
 	    break;
