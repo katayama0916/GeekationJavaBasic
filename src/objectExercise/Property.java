@@ -28,6 +28,7 @@ public class Property {
 		return this.price;
 	}
 
+
 	//	セッター
 	public String setpropertyName() {
 		return this.propertyName;

@@ -11,6 +11,7 @@ public class Land  extends Property{
 	public double getarea() {
 		return this.area;
 	}
+	
 	//	ゲッター
 	public double setarea() {
 		return this.area;
