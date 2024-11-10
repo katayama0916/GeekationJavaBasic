@@ -10,7 +10,6 @@ public class Apartment extends Property {
 	public String getlayout() {
 		return this.layout;
 	}
-	
 	//	セッター
 	public String setlayout() {
 		return this.layout;
