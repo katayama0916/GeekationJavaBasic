@@ -1,8 +1,6 @@
 package objectExercise;
 
 public class Property {
-	
-	
 	private String propertyName;
 	private String owner;
 	private String type;

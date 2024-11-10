@@ -2,9 +2,6 @@ package objectExercise;
 
 public class Land  extends Property{
 	private double area;
-
-	
-
 	Land(String propertyName, String owner, String type, int price, double area ) {
 
 		super(propertyName, owner, type,price);

@@ -2,11 +2,7 @@ package objectExercise;
 
 public class Apartment extends Property {
 	private String layout;
-
-
 	Apartment(String propertyName, String owner, String type, int price, String layout) {
-
-
 		super(propertyName, owner, type, price);
 		this.layout =layout;
 	}
