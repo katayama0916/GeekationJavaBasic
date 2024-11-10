@@ -27,7 +27,6 @@ public class Property {
 	public int getprice() {
 		return this.price;
 	}
-
 	//	セッター
 	public String setpropertyName() {
 		return this.propertyName;
